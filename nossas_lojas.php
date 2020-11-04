@@ -8,15 +8,10 @@
 </head>    
     <body>
         <!--Início do menu-->
-        <table class="tabela">
-            <tr>
-                <td class="coluna"><a href="index.html"><img width="70px" src="./imagens/Logo 2.jpg" alt="Influência dos Games"></a></td>
-                <td class="coluna"><a href="nossos_produtos.html">Nossos Produtos</a></td>
-                <td class="coluna"><a href="nossas_lojas.html">Nossas Lojas</a></td>
-                <td class="coluna"><a href="fale_conosco.html">Fale Conosco</a></td>
-            </tr>
-        </table>
-        <!--Fim do menu-->
+    <?php
+    include('menu.html');
+    ?>
+    <!--Fim do menu-->
 
         <p class="texto_inicial">Nossas Lojas<p/>
 

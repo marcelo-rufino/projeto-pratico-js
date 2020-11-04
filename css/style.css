@@ -73,7 +73,7 @@ h4 {
 }
 
 .bloco_categoria {
-    display: inline-block;
+    display: block;
     width: 18%;
 }
 
@@ -85,5 +85,6 @@ h4 {
     width: 18%;
     text-align: center;
 }
+
 
 
